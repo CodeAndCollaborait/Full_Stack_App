@@ -1,0 +1,19 @@
+
+Api will be create for Users, Auth, Profile and Post 
+
+//Registration Process
+1. App should be able to SingUp the user and store the user data into users collections(DB).
+3. If users is already Registered then we should send them message "already Registered"
+
+//Authenticate Process
+2. App should be able to take userName and Password and verify that and Authenticate users 
+
+
+//Create there Profile
+4. user should be able to create profile. (profile should only one per user..)
+5. app should not allows user to create duplicate profile
+
+//user can post message..
+6. User can create or post messages as well as likes and unlike the messages
+
+
